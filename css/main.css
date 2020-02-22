@@ -1,0 +1,34 @@
+body{
+	background: #CCCCCC;
+}
+header{
+	background: black;
+	height: 50px;
+	color: white;
+}
+section{
+	margin-top: 50px;
+	margin-left: 10px;
+}
+footer{
+	text-align: center;
+	background: black;
+	height:25px;
+	color: white;
+}
+h1{
+	text-align: center;
+}
+h2{
+	color: black;
+}
+a{
+	text-align: center;
+	text-decoration: none;
+	color: black;
+}
+a:hover{
+	text-align: center;
+	text-decoration: none;
+	color: black;
+}
