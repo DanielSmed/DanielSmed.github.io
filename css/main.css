@@ -18,17 +18,37 @@ footer{
 }
 h1{
 	text-align: center;
+	font-size: 40px;
 }
 h2{
 	color: black;
+	font-size: 30px;
 }
 a{
 	text-align: center;
 	text-decoration: none;
 	color: black;
+	font-size: 20px;
 }
 a:hover{
 	text-align: center;
 	text-decoration: none;
 	color: black;
+}
+@media only screen and (max-width: 600px){
+	header{
+		height: 60px;
+	}
+	section{
+		margin-top: 60px;
+	}
+	h1{
+		font-size: 50px;
+	}
+	h2{
+		font-size: 40px;
+	}
+	a{
+		font-size: 30px;
+	}
 }
